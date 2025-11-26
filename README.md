@@ -1,8 +1,8 @@
 LINK DOWNLOAD : https://drive.google.com/file/d/1DL0KOMlgu3UBMOukDgdVeM5_9U7Z70Uk/view?usp=sharing
 
-# BlueClickByS - Modern Auto Clicker
+# BlueClick - Auto Clicker by DK
 
-BlueClickByS adalah aplikasi autoclicker modern yang dirancang untuk mengotomatiskan klik mouse dan input keyboard. Aplikasi ini menyediakan berbagai fitur canggih untuk membuat dan mengelola skrip otomatisasi dengan mudah.
+BlueClick adalah aplikasi autoclicker modern yang dirancang untuk mengotomatiskan klik mouse dan input keyboard. Aplikasi ini menyediakan berbagai fitur canggih untuk membuat dan mengelola skrip otomatisasi dengan mudah.
 
 ## Fitur Utama
 
