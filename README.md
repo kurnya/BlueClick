@@ -1,4 +1,6 @@
-LINK DOWNLOAD : https://drive.google.com/file/d/1DL0KOMlgu3UBMOukDgdVeM5_9U7Z70Uk/view?usp=sharing
+LINK DOWNLOAD : 
+GD : https://drive.google.com/file/d/1D9C7sFKwILXe27-RMAu76RT4xb2pCDNm/view?usp=sharing
+Relese : https://github.com/kurnya/BlueClick/releases
 
 # BlueClick - Auto Clicker by DK
 
@@ -19,7 +21,7 @@ BlueClick adalah aplikasi autoclicker modern yang dirancang untuk mengotomatiska
 
 ### Dari Executable
 
-- Unduh Autoclick.zip di https://drive.google.com/file/d/1DL0KOMlgu3UBMOukDgdVeM5_9U7Z70Uk/view?usp=sharing
+- Unduh BlueClick.zip di https://drive.google.com/file/d/1DL0KOMlgu3UBMOukDgdVeM5_9U7Z70Uk/view?usp=sharing atau https://github.com/kurnya/BlueClick/releases
 - Unzip Autoclick.zip
 - jalankan `BlueClick.exe`
 
