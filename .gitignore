@@ -1,0 +1,11 @@
+# ZIP files (will be added as release assets)
+*.zip
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
